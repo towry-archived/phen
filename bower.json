@@ -1,0 +1,22 @@
+{
+  "name": "phen",
+  "main": "phen.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/towry/phen",
+  "authors": [
+    "towry <tovvry@gmail.com>"
+  ],
+  "description": "A lightweight JavaScript Promise library",
+  "keywords": [
+    "promise",
+    "defer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
