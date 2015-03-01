@@ -31,7 +31,7 @@ var promise = phen.defer(function (resolve, reject) {
 Attach callbacks to be called when `promise` fulfilled or rejected. the `then` method will return a new promise object.
 
 Example:
-```
+```javascript
 // this promise is from above example
 // suppose it's fulfilled
 promise.then(function (v) {
